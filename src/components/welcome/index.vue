@@ -1,27 +1,22 @@
 <template>
-    <div class="fixed w-full bg-white shadow-lg z-50">
-  <div class="container mx-0 flex justify-between items-center md:px-4 lg:px-16 py-4">
-    <!-- Logo y nombre -->
-    <div class="flex items-center space-x-4 flex-shrink-0">
-      <img src="/public/WildCatCoin.png" alt="Logo" class="h-12 md:h-16 lg:h-20">
-      <span class="text-2xl md:text-3xl lg:text-4xl font-extrabold text-gray-900">WILDCATCOIN</span>
-    </div>
-
-    <!-- Opciones del navbar -->
-    <nav :class="menuOpen ? 'block' : 'hidden' " class="hidden lg:flex lg:space-x-4 items-center space-x-4 flex-wrap">
-      <a href="#" class="text-gray-600 hover:text-gray-800 transition duration-300">Features</a>
-      <a href="#" class="text-gray-600 hover:text-gray-800 transition duration-300">How to buy</a>
-      <a href="#" class="text-gray-600 hover:text-gray-800 transition duration-300">Roadmap</a>
-    </nav>
-
-    <!-- Menú Sandwich -->
-    <div class="lg:hidden">
-      <button @click="toggleMenu" class="text-gray-800">
-        <svg class="h-8 w-8" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M3 6h16M 12h16m-7 6h7"></path>
-        </svg>
-      </button>
-    </div>
+  <div class="sticky top-5 z-50 bg-white">
+    <div class="container mx-auto flex justify-between items-center md:px-4 lg:px-16 py-4">
+      <div class="flex items-center space-x-4 flex-shrink-0">
+        <img src="/public/WildCatCoin.png" alt="Logo" class="h-12 md:h-16 lg:h-20">
+        <span class="text-2xl md:text-3xl lg:text-4xl font-extrabold text-gray-900">WILDCATCOIN</span>
+      </div>
+      <nav :class="menuOpen ? 'block' : 'hidden' " class="hidden lg:flex lg:space-x-4 items-center space-x-4 flex-wrap">
+        <a href="#" class="text-gray-600 hover:text-gray-800 transition duration-300">Features</a>
+        <a href="#" class="text-gray-600 hover:text-gray-800 transition duration-300">How to buy</a>
+        <a href="#" class="text-gray-600 hover:text-gray-800 transition duration-300">Roadmap</a>
+      </nav>
+      <div class="lg:hidden">
+        <button @click="toggleMenu" class="text-gray-800">
+          <svg class="h-8 w-8" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M3 6h16M 12h16m-7 6h7"></path>
+          </svg>
+        </button>
+      </div>
   </div>
 </div>
   <div>
