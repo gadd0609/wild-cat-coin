@@ -1,5 +1,5 @@
 <template>
-  <div class="w-1024px" >
+  <div>
     <welcome-component/>
     <hr class="my-12 h-0.5 border-t-0 bg-neutral-100 dark:bg-black/10" />
     <feature-component/> 
