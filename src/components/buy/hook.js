@@ -14,7 +14,7 @@ export default function buy (){
       title: '3. Step: Buy $WILDCATS',
       info: 'You can now use your BNB to purchase $WILDCATS from Pancakeswap.',
       imageUrl:
-        '/public/CatCoin.png',
+        '/public/WildCatCoin.png',
     }
   ]
 

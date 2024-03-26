@@ -1,5 +1,5 @@
 <template>
-  <div class="mx-auto max-w-7xl py-24 px-6 lg:px-8 sm:py-10">
+  <div class="mx-auto max-w-7xl py-24 px-6 lg:px-8 sm:py-10 transition ease-in-out delay-50 hover:-translate-y-1 hover:scale-110 duration-100">
     <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">How to buy</h2>
     <ul role="list" class="divide-y divide-gray-100 sm:py-10">
       <li v-for="data in info" :key="data.info" class="flex start gap-x-6 py-10">

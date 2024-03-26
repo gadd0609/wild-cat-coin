@@ -1,5 +1,5 @@
 <template>
-    <div class="py-24 sm:py-10">
+    <div class="py-24 sm:py-10 transition ease-in-out delay-50 hover:-translate-y-1 hover:scale-110 duration-100">
         <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl xl:py-8">
             Roadmap
         </h2>

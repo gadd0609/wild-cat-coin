@@ -1,9 +1,8 @@
 <template>
-  <div class="sm:py-40">
+  <div class="py-24 sm:py-10 transition ease-in-out delay-50 hover:-translate-y-1 hover:scale-110 duration-100">
     <h2 class="text-3xl font-bold text-gray-900 sm:text-4xl md:py-5">
         TOKENOMICS
     </h2>
-    <hr class="my-12 h-0.5 border-t-0 bg-neutral-100 " />
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
       <dl class="grid grid-cols-1 gap-x-8 gap-y-16 text-center lg:grid-cols-4">
         <div v-for="stat in stats" :key="stat.id" class="mx-auto flex max-w-xs flex-col gap-y-4">

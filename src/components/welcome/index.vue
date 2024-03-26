@@ -1,5 +1,5 @@
 <template>
-  <div class="sticky top-5 z-50 bg-white">
+  <div class="sticky top-0 z-50 bg-white transition">
     <div class="container mx-auto flex justify-between items-center md:px-4 lg:px-16 py-4">
       <div class="flex items-center space-x-4 flex-shrink-0">
         <img src="/public/WildCatCoin.png" alt="Logo" class="h-12 md:h-16 lg:h-20">
@@ -19,7 +19,7 @@
       </div>
   </div>
 </div>
-  <div>
+  <div class="animate-bounce">
     <div class="relative isolate px-6 pt-14 lg:px-8">
       <div class="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80" aria-hidden="true">
         <div class="relative left-[calc(50%-11rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2" />
