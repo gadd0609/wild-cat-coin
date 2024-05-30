@@ -20,7 +20,7 @@ export default function buy (){
       title: '4. Step: Switch SOL for $WILD',
       info: 'switch SOL for $WILD. We have ZERO taxes so you don’t need to worry about buying with a specific slippage, although you may need to use slippage during times of market volatility.',
       imageUrl:
-        'src/components/icons/WildCatCoin.png'
+        'https://cryptologos.cc/logos/solana-sol-logo.png'
     }
   ]
 
