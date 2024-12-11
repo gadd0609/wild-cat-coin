@@ -6,8 +6,8 @@
         <div class="flex min-w-0 gap-x-4">
           <img class="h-12 w-12 flex-none rounded-full bg-gray-50" :src="data.imageUrl" />
           <div class="min-w-0 flex-auto">
-            <p class="text-xl font-bold leading-6 text-gray-900 flex start">{{ data.title }}</p>
-            <p class="text-sm mt-1 truncate leading-5 text-gray-500 flex start">{{ data.info }}</p>
+            <p class="text-xl font-bold text-gray-900 flex">{{ data.title }}</p>
+            <p class="text-sm mt-1 text-gray-500 flex text-start">{{ data.info }}</p>
           </div>
         </div>
       </li>

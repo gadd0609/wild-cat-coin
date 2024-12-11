@@ -3,7 +3,7 @@ export default function buy (){
     {
       title: '1. Step: Create a Wallet',
       info: 'download phantom or your wallet of choice from the app store or google play store for free. Desktop users, download the google chrome extension by going to phantom.app.',
-      imageUrl:'https://i.pinimg.com/originals/27/b5/1d/27b51dbb41902c10c87c90e706b1ab86.png',
+      imageUrl:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrOBHceaSZo39jMHTFgrIJh6tA6TBHk4PSli48mW-8YMLEr0QRp1AUrUsT4MN_BCx9sWw&usqp=CAU',
     },
     {
       title: '2. Step: Get Some SOL',
