@@ -4,10 +4,10 @@
     <hr class="my-12 h-0.5 border-t-0 bg-coin dark:bg-coin" />
     <feature-component/> 
     <hr class="my-12 h-0.5 border-t-0 bg-coin dark:bg-coin" />
-    <!-- <tokenomics-component/> 
-    <hr class="my-12 h-0.5 border-t-0 bg-coin dark:bg-coin" /> -->
-    <!-- <buy-component/> 
-    <hr class="my-12 h-0.5 border-t-0 bg-coin dark:bg-coin" /> -->
+    <tokenomics-component/> 
+    <hr class="my-12 h-0.5 border-t-0 bg-coin dark:bg-coin" />
+    <buy-component/> 
+    <hr class="my-12 h-0.5 border-t-0 bg-coin dark:bg-coin" />
     <roadmap-component/> 
     <hr class="my-12 h-0.5 border-t-0 bg-coin dark:bg-coin" />
     <footer-component/> 

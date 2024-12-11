@@ -11,10 +11,10 @@ export default function buy (){
       imageUrl:'https://cryptologos.cc/logos/solana-sol-logo.png',
     },
     {
-      title: '3. Step: Go to Raydium',
-      info: 'connect to Raydium. Go to raydium.io/swap in google chrome or on the browser inside your Phantom app. Connect your wallet. Paste the $SOL token address into Raydium, select Wild, and confirm. When Phantom prompts you for a wallet signature, sign.',
+      title: '3. Step: Go pump.fun',
+      info: 'Connect to pump.fun. Go to pump.fun/swap in google chrome or on the browser inside your Phantom app. Connect your wallet. Paste the $SOL token address into pump.fun, select WildCatCoin, and confirm. When Phantom prompts you for a wallet signature, sign.',
       imageUrl:
-        'https://raydium.io/favicon.ico',
+        'https://pbs.twimg.com/profile_images/1778364768933511168/Z4l25TVt_400x400.jpg',
     },
     {
       title: '4. Step: Switch SOL for $WILD',

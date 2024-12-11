@@ -1,8 +1,8 @@
 <template>
-  <div class="sticky top-0 z-50">
+  <div class="top-0 z-50">
     <div class="container mx-auto flex justify-center md:px-4 lg:px-16 py-4">
       <div class="flex items-center space-x-4 flex-shrink-0">
-        <img src="/public/WildCatCoin.png" alt="Logo" class="h-12 md:h-16 lg:h-20">
+        <img src="/public/WildCatCoinLogo.png" alt="Logo" class="h-12 md:h-16 lg:h-20">
         <span class="text-2xl md:text-3xl lg:text-4xl font-extrabold text-gray-900">WILDCATCOIN</span>
       </div>
   </div>
