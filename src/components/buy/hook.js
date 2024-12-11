@@ -17,8 +17,8 @@ export default function buy (){
         'https://pbs.twimg.com/profile_images/1778364768933511168/Z4l25TVt_400x400.jpg',
     },
     {
-      title: '4. Step: Switch SOL for $WILD',
-      info: 'switch SOL for $WILD. We have ZERO taxes so you don’t need to worry about buying with a specific slippage, although you may need to use slippage during times of market volatility.',
+      title: '4. Step: Switch SOL for $WCC',
+      info: 'switch SOL for $WCC. We have ZERO taxes so you don’t need to worry about buying with a specific slippage, although you may need to use slippage during times of market volatility.',
       imageUrl:
         'https://cryptologos.cc/logos/solana-sol-logo.png'
     }
