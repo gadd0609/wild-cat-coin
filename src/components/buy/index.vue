@@ -6,7 +6,7 @@
         <div class="flex min-w-0 gap-x-4">
           <img class="h-12 w-12 flex-none rounded-full bg-gray-50" :src="data.imageUrl" />
           <div class="min-w-0 flex-auto">
-            <p class="text-xl font-bold text-gray-900 flex">{{ data.title }}</p>
+            <p class="text-xl font-bold text-gray-900 flex"><a :href="data.link">{{ data.title }}</a></p>
             <p class="text-sm mt-1 text-gray-500 flex text-start">{{ data.info }}</p>
           </div>
         </div>

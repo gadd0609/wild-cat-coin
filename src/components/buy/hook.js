@@ -4,6 +4,7 @@ export default function buy (){
       title: '1. Step: Create a Wallet',
       info: 'download phantom or your wallet of choice from the app store or google play store for free. Desktop users, download the google chrome extension by going to phantom.app.',
       imageUrl:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrOBHceaSZo39jMHTFgrIJh6tA6TBHk4PSli48mW-8YMLEr0QRp1AUrUsT4MN_BCx9sWw&usqp=CAU',
+      link: 'https://phantom.com/'
     },
     {
       title: '2. Step: Get Some SOL',
@@ -15,6 +16,7 @@ export default function buy (){
       info: 'Connect to pump.fun. Go to pump.fun/swap in google chrome or on the browser inside your Phantom app. Connect your wallet. Paste the $SOL token address into pump.fun, select WildCatCoin, and confirm. When Phantom prompts you for a wallet signature, sign.',
       imageUrl:
         'https://pbs.twimg.com/profile_images/1778364768933511168/Z4l25TVt_400x400.jpg',
+      link: 'https://pump.fun/coin/E4QQ1XDrVhXpcoSQowHNUZ4TKV31PKDMkb7hpppLpump'
     },
     {
       title: '4. Step: Switch SOL for $WCC',
