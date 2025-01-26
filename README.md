@@ -1,7 +1,32 @@
-# Vue 3 + Vite
+# WildCatCoin
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## About 
+ - This is a landingpage to promote the use of cryptos
+ - Implementation of tailwind ui
+ - me gustaria implementar a futuro el consumo de apis para actualizar los texto
+ - 
+## Evidences
+
+| Description | Screenshot |
+| --- | --- |
+| The first look of page | ![image](https://github.com/user-attachments/assets/5c5d3303-81f3-4203-a968-c81ceec94bad)|
 
 ## Recommended IDE Setup
+ - Clone the repo
+```
+git clone https://github.com/gadd0609/wild-cat-coin.git
+cd wild-cat-coin
+```
+ - execute next commnads
+```
+npm i
+npm run dev
+```
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+#### Usage
+
+#### Link to the page
+[WildCatCoin](https://www.wildcatcoin.io/)
+
+## Languages and Tools:</h3>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
